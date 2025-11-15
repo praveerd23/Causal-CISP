@@ -14,9 +14,6 @@ Causal-CISP addresses these limitations through three core components:
               * Reduces attack success rates to ≤0.08,
               * Preserves privacy (PSNR ≤ 0.20) without false positives.
 
-By combining **causality-driven adversarial attribution (CIAA)**, **trust-adaptive encryption (HEDTS)**, and **game-theoretic incentives (GTIPM)**, Causal-CISP establishes a scalable, interpretable, and domain-agnostic defense against poisoning, backdoor, and free-riding attacks in federated learning.
-
-
 
 Components:
 - CSRI (Causal Separation Representation Isolation)
