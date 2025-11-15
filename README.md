@@ -15,9 +15,5 @@ Causal-CISP addresses these limitations through three core components:
               * Preserves privacy (PSNR ≤ 0.20) without false positives.
 
 
-Components:
-- CSRI (Causal Separation Representation Isolation)
-- HEDTS (Hybrid Encryption–Dynamic Trust Scaling)
-- CIAA (Causal Intervention–Driven Adversary Attribution)
-- GTIPM (Global Trust–Influenced Probabilistic Aggregation Model)
+
 
