@@ -8,7 +8,7 @@ Causal-CISP addresses these limitations through three core components:
   
   3. **Game Theoretic Incentive and Penalty Model (GTIPM):** Using Stackelberg game theory, GTIPM incentivizes honest participation and penalizes malicious or lazy behavior. This approach achieves near-optimal trust entropy (1.6093 vs. ideal 1.6094) and highly stable trust scores (std. dev. ≤ 0.001), ensuring equitable client contribution even under non-IID conditions.
 
-              Evaluations on **CIFAR-10, EMNIST, and MedMNIST** under realistic non-IID scenarios demonstrate that Causal-CISP:
+              Evaluations on CIFAR-10, EMNIST, and MedMNIST under realistic non-IID scenarios demonstrate that Causal-CISP:
               
               * Maintains high model accuracy (83–89%),
               * Reduces attack success rates to ≤0.08,
