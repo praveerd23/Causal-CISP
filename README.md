@@ -1,4 +1,4 @@
-<img width="6105" height="3055" alt="image" src="https://github.com/user-attachments/assets/e24c0cdf-4d9b-4d4e-b948-956d2b3bb1c0" />**Causal Inference with Secure Protocols (Causal-CISP)** introduces an integrated and modular defense framework for Federated Learning (FL) that mitigates adversarial risks while preserving privacy, interpretability, and efficiency. Conventional FL defenses are often disjointed, specific to certain attack scenarios, and prone to performance degradation under heterogeneous, non-identically distributed (non-IID) client data, which are common in real-world deployments
+**Causal Inference with Secure Protocols (Causal-CISP)** introduces an integrated and modular defense framework for Federated Learning (FL) that mitigates adversarial risks while preserving privacy, interpretability, and efficiency. Conventional FL defenses are often disjointed, specific to certain attack scenarios, and prone to performance degradation under heterogeneous, non-identically distributed (non-IID) client data, which are common in real-world deployments
 
 Causal-CISP addresses these limitations through three core components:
 
@@ -15,7 +15,7 @@ Causal-CISP addresses these limitations through three core components:
               * Preserves privacy (PSNR ≤ 0.20) without false positives.
 
 
-
+<img width="6105" height="3055" alt="image" src="https://github.com/user-attachments/assets/e24c0cdf-4d9b-4d4e-b948-956d2b3bb1c0" />
 
 
 
